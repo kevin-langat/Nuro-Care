@@ -1,0 +1,10 @@
+# Standard robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /checkout/
+
+User-agent: GPTBot
+Disallow: /
+Sitemap: https://mekin-79xq.vercel.app/home
