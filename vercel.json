@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://mekin-backend.onrender.com/:path*"
+      "destination": "https://nuro-care-backend.onrender.com/:path*"
     },
     {
       "source": "/(.*)",
